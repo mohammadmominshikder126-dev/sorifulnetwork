@@ -1,0 +1,6 @@
+{
+  "name": "S.A NETWORK",
+  "description": "S.A NETWORK - Mobile, Accessories & Smart Lifestyle Store in Bangladesh. Shop Smartphones, Earbuds, Smart Watches, Chargers, Speakers & Gaming Gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
